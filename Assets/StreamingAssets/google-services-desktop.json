@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "220743548071",
+    "firebase_url": "https://quiz-guarani.firebaseio.com",
+    "project_id": "quiz-guarani",
+    "storage_bucket": "quiz-guarani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220743548071:android:6566ad9352eeb15e",
+        "android_client_info": {
+          "package_name": "br.com.redscarf.quizguarani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220743548071-k3b9oktenfmf6d80eb6ib3id3lqnb2cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-GAWH28Mcf__nDsTxalvuYsSgfDijMuI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
